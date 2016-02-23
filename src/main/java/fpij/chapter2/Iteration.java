@@ -11,14 +11,6 @@ public class Iteration {
 
     final static List<String> friends = Arrays.asList("Brian", "Nate", "Neal", "Raju", "Sara", "Scott");
 
-    private void loopByIndex() {
-
-    }
-
-    private void loopForEach() {
-
-    }
-
     public static void main(String[] args) {
 
         System.out.println("\ngood old indexed iteration over array");
